@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Bharatibhat07/LeetCode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Bharatibhat07/LeetCode/tree/master/0136-single-number) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Bharatibhat07/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Bit Manipulation
@@ -18,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Bharatibhat07/LeetCode/tree/master/0125-valid-palindrome) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Bharatibhat07/LeetCode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Bharatibhat07/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
